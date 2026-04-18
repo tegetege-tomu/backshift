@@ -1,4 +1,4 @@
-package com.example.backshift.model
+package com.tegetege.backshift.model
 
 /**
  * Represents a single flashcard in the app.

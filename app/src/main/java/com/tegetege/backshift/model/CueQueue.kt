@@ -1,4 +1,4 @@
-package com.example.backshift.model
+package com.tegetege.backshift.model
 
 import kotlin.collections.ArrayDeque
 
@@ -19,7 +19,7 @@ class CueQueue {
         return queue.removeFirstOrNull()
     }
 
-    fun getCue() {
+    fun getCue(): Cue? {
         return queue.firstOrNull()
     }
 }

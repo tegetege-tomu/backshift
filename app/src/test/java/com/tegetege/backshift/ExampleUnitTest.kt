@@ -1,4 +1,4 @@
-package com.example.backshift
+package com.tegetege.backshift
 
 import org.junit.Test
 

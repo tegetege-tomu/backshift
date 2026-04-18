@@ -1,8 +1,8 @@
-package com.example.backshift.ui
+package com.tegetege.backshift.ui
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
-import com.example.backshift.R
+import com.tegetege.backshift.R
 
 class MainActivity : AppCompatActivity() {
 

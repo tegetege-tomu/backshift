@@ -1,4 +1,4 @@
-package com.example.backshift.model
+package com.tegetege.backshift.model
 
 /**
  * Basic Cue model.

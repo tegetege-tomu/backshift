@@ -3,13 +3,13 @@ plugins {
 }
 
 android {
-    namespace = "com.example.backshift"
+    namespace = "com.tegetege.backshift"
     compileSdk {
         version = release(37)
     }
 
     defaultConfig {
-        applicationId = "com.example.backshift"
+        applicationId = "com.tegetege.backshift"
         minSdk = 37
         targetSdk = 37
         versionCode = 1
